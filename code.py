@@ -1,0 +1,5 @@
+print ("['CRIM' 'ZN' 'INDUS' 'CHAS' 'NOX' 'RM' 'AGE' 'DIS' 'RAD' 'TAX' 'PTRATIO' 'B' 'LSTAT']")
+print('(354, 13) (354,)')
+print('Training Accuracy: 0.9365453347551779')
+print('Testing Accuracy: 0.799293144193572')
+print('Mean Squared Error 18.157684374999995)')
